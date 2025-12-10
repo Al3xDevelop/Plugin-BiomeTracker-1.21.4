@@ -1,0 +1,6 @@
+name: StarsBiomeTracker
+version: 1.0.0
+main: Al3x.starsBiomeTracker.StarsBiomeTracker
+api-version: 1.21
+description: Плагин для отслеживания биомов с отображением в action bar
+author: al3x
